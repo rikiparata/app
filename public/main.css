@@ -4,13 +4,13 @@
 }
 
 .gallery {
-    max-width: 100%;
+    max-width: 93%;
     height: 200px;
     overflow: auto;
     white-space: nowrap;
     margin: 0 auto;
     text-align: center;
-    /* flex-direction: row; */
+    flex-direction: row;
     
 
 }
